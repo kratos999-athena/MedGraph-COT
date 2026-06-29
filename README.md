@@ -185,7 +185,7 @@ The following libraries are required to reproduce the experiments. All generativ
 
 ## Usage
 
-Open and run `FINAL_001.ipynb` in a Jupyter environment. The notebook is organized into the following sections:
+Open and run `FINAL_001.ipynb` in a Jupyter environment.
 
 Neo4j AuraDB credentials and a Groq API key must be configured in the environment before execution.
 
